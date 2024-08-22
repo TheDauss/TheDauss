@@ -31,7 +31,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/b852746c-47e0-4224-bcdf-0694a25d21e3" alt="Imagem" style="height: 500px;">
+  <img align="center" src="https://github.com/user-attachments/assets/b852746c-47e0-4224-bcdf-0694a25d21e3" alt="Imagem" style="height: 400px;">
 </p>
 
 ## 📘 Skills
