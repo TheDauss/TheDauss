@@ -10,7 +10,7 @@
 
   - ☕ Currently, I'm studying C# and deepening my knowledge of back-end development.
 
-  - 📕 I have 5 months of study, and I'm looking for a job opportunity
+  - 📕 I have 6 months of study, and I'm looking for a job opportunity
 </p>
 
 <!-- Dropdown -->
