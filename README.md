@@ -49,10 +49,8 @@
   <h3>Tools & Frameworks</h3>
   <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg">
   <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Entity Framework" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/.NET_Core_Logo.svg">
-  <img align="center" alt="ASP.NET Core" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg">
 </div>
   
   <!-- Skills: Libraries -->
