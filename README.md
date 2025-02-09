@@ -8,16 +8,16 @@
 <p>
   Hello, I'm Jonathan. A Brazilian programming student.
 
-  - ☕ Currently, I'm studying C# and deepening my knowledge of back-end development.
+  - ☕ Currently, I'm studying ASP.NET and deepening my knowledge of back-end development.
 
-  - 📕 I have 6 months of study, and I'm looking for a job opportunity
+  - 📕 I'm looking for a job opportunity.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>❓ More about me</summary>
 
-  - 💬 I am 18 years old, have intermediate English, and have had some experience with C, C++, Java, and Python in college. My main programming languages are Java and C#. I plan to study front-end development in the future using JavaScript."
+  - 💬 I am 18 years old, have intermediate English, and have had some experience with C, C++, Java, and Python in college. My main programming languages are C#. I plan to study front-end development in the future using JavaScript."
     
   - 🎲 I enjoy watching videos about technology, puzzles, horror, games, and topics that involve logical reasoning.
 </details>
@@ -45,10 +45,14 @@
 ###
   
   <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
+<div style="flex-basis: 48%;">
+  <h3>Tools & Frameworks</h3>
+  <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Entity Framework" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/.NET_Core_Logo.svg">
+  <img align="center" alt="ASP.NET Core" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg">
+</div>
   
   <!-- Skills: Libraries -->
